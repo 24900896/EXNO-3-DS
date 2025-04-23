@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/bfcd45f3-d2df-446c-8dad-8711e4329ba9)![image](https://github.com/user-attachments/assets/e2d00e13-1ce6-4a5f-b747-e7cead92a038)![image](https://github.com/user-attachments/assets/234cec8b-87e0-4ec6-b732-39c906c0a9ea)![image](https://github.com/user-attachments/assets/6723cdfb-ac49-4433-bec7-6568367a7d73)![image](https://github.com/user-attachments/assets/352ff38b-3603-48e5-981d-e8b0ef523b1f)![image](https://github.com/user-attachments/assets/8b7fb7f8-0d7b-412d-a92e-8baec1b19564)![image](https://github.com/user-attachments/assets/5c05d447-7137-4994-93c2-1d4bba75a230)![image](https://github.com/user-attachments/assets/e8dc8202-bd9a-4637-b4ba-5fbf393fe5a5)![image](https://github.com/user-attachments/assets/7794ee4c-b448-463b-9a9e-207bf1f7eeeb)## EXNO-3-DS
+**EX N0:3**
+
+
 
 # AIM:
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
